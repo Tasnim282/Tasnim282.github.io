@@ -223,3 +223,9 @@ p {
     outline: none;
     border-color: #f7c08a;
 }
+#main-footer {
+    text-align: center;
+    background: #444444;
+    color: #ffffff;
+    padding: 20px;
+}
