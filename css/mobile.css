@@ -17,7 +17,6 @@
     padding-top: 170px;
     padding-bottom: 30px;
 }
-
 #home_info {
     height: 550px;
 }
@@ -28,12 +27,10 @@
     float: none;
     width: 100%;
 }
-
 .box {
     float: none;
     width: 100%;
 }
-
 #about-info .info-right,
 #about-info .info-left {
     float: none;
